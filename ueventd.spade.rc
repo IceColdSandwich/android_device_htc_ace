@@ -26,6 +26,7 @@
 /dev/snd/*              0660    system      audio
 /dev/tpa2051d3          0660    system      audio
 /dev/htc-acoustic       0660    system      audio
+/dev/msm_mvs            0660    system      audio
 
 #graphics
 /dev/msm_rotator        0660    system      graphics
