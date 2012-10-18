@@ -178,6 +178,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     device/htc/msm7x30-common/msm7230/bcm4329.ko:system/lib/modules/bcm4329.ko \
+    device/htc/msm7x30-common/msm7230/cifs.ko:system/lib/modules/cifs.ko \
+    device/htc/msm7x30-common/msm7230/tun.ko:system/lib/modules/tun.ko \
     device/htc/msm7x30-common/msm7230/qc_pcm_in.ko:system/lib/modules/qc_pcm_in.ko
 
 # stuff common to all HTC phones
